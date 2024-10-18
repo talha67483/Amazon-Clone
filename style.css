@@ -20,7 +20,7 @@
 }
 
 .logo {
-  background-image: url(amazon_logo.png);
+  background-image: url(/images/amazon_logo.png);
   background-size: cover;
   height: 50px;
   width: 110px;
@@ -210,7 +210,7 @@ font-size: 26px;
 
 
 .hero-section{
-    background-image: url(gaming-hero.jpg);
+    background-image: url(images/gaming-hero.jpg);
     height: 300px;
     background-size: cover;
     display: flex;
